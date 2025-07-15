@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  outline: none;
+  font-family: "Segoe UI", "Times New Roman", Times, serif;
+}
+img {
+  max-width: 100%;
+}
+
+button {
+  background: unset;
+  border: unset;
+}
